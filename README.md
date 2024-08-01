@@ -1,0 +1,1 @@
+Autocad automation scripts to aid with repetitive tasks / optimize cad for bringing into revit. Each lsp has instructions how to load it and what it will do in a PDF with the same name and the suffix "_INSTRUCTIONS"
